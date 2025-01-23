@@ -30,7 +30,7 @@ export default function App() {
         "service_1ujuw8v", // Your Service ID
         "template_b8f72s7", // Template ID (the template you created)
         {
-          // No need to pass dynamic parameters, because the template is hardcoded
+          // No need to pass dynamic pasasasarameters, because the template is hardcoded
           to_email: "deekshapoojary512@gmail.com", // Static recipient email (the one you want)
         },
         "yml93xgOVi8b0-JtP" // Your User ID from EmailJS
